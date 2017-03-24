@@ -1,0 +1,10 @@
+java -cp java-advanced-2017/lib/hamcrest-core-1.3.jar;java-advanced-2017/lib/junit-4.11.jar;java-advanced-2017/artifacts/WalkTest.jar;./out/production/Java info.kgeorgiy.java.advanced.walk.Tester RecursiveWalk ru.ifmo.ctddev.kopeliovich.walk.RecursiveWalk
+
+java -cp java-advanced-2017/lib/quickcheck-0.6.jar;java-advanced-2017/lib/jsoup-1.8.1.jar;java-advanced-2017/lib/hamcrest-core-1.3.jar;java-advanced-2017/lib/junit-4.11.jar;java-advanced-2017/artifacts/ArraySetTest.jar;./out/production/Java info.kgeorgiy.java.advanced.arrayset.Tester NavigableSet ru.ifmo.ctddev.kopeliovich.arrayset.ArraySet
+
+"C:\Program Files\Java\jdk1.8.0_121\bin\java" -classpath "C:\Work\Java\out\production\Java;C:\Work\Java\java-advanced-2017\lib\hamcrest-core-1.3.jar;C:\Work\Java\java-advanced-2017\lib\junit-4.11.jar;C:\Work\Java\java-advanced-2017\lib\quickcheck-0.6.jar;C:\Work\Java\java-advanced-2017\lib\jsoup-1.8.1.jar;C:\Work\Java\java-advanced-2017\artifacts\ImplementorTest.jar" info.kgeorgiy.java.advanced.implementor.Tester class ru.ifmo.ctddev.kopeliovich.implementor.Implementor
+"C:\Program Files\Java\jdk1.8.0_121\bin\java" -classpath "C:\Work\Java\out\production\Java;C:\Work\Java\java-advanced-2017\lib\hamcrest-core-1.3.jar;C:\Work\Java\java-advanced-2017\artifacts\ImplementorTest.jar;C:\Work\Java\java-advanced-2017\lib\junit-4.11.jar" info.kgeorgiy.java.advanced.implementor.Tester jar-class ru.ifmo.ctddev.kopeliovich.implementor.Implementor
+
+
+
+java -cp java-advanced-2017/lib/quickcheck-0.6.jar;java-advanced-2017/lib/jsoup-1.8.1.jar;java-advanced-2017/lib/hamcrest-core-1.3.jar;java-advanced-2017/lib/junit-4.11.jar;java-advanced-2017/artifacts/IterativeParallelismTest.jar;./out/production/Java info.kgeorgiy.java.advanced.concurrent.Tester list ru.ifmo.ctddev.kopeliovich.concurrent.IterativeParallelism
