@@ -1,1 +1,0 @@
-java -cp out/lib/hamcrest-core-1.3.jar:out/lib/junit-4.11.jar:out/lib/quickcheck-0.6.jar:out/lib/jsoup-1.8.1.jar:out/lib2/JarImplementorTest.jar:./out/production/HW3 info.kgeorgiy.java.advanced.implementor.Tester jar-class ru.ifmo.ctddev.melnikov.implementor.Implementor $@
